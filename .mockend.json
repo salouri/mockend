@@ -7,8 +7,8 @@
       }
     },
     "User": {
-      "title": { "string": {} },
-      "comments": {
+      "name": { "string": {} },
+      "posts": {
         "hasMany": "Post"
       }
     },
