@@ -3,8 +3,7 @@
       "title": { "string": {} },
       "comments": {
         "hasMany": "Comment"
-      },
-        "belongsTo":{"User"}
+      }
     },
     "User": {
       "name": { "string": {} },
